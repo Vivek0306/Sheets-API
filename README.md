@@ -7,7 +7,7 @@ To get started with this application, follow these steps:
 ### Prerequisites
 Node.js: Make sure you have Node.js installed on your system.
 Installation
- 1. Clone the repository to your local machine:
+ 1. Clone the repository to your local machine
 
  2. Install the required npm packages using: 
 ```npm install```
@@ -35,5 +35,4 @@ Run the application:
 
 The server will start, and you can access the application in your web browser at http://localhost:3000.
 
-
-### Feel free to customize this README with additional information or details about your application as needed.
+### NB: This is still under development, feel free to customize this README with additional information or details about your application as needed.
